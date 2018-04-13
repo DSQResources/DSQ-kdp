@@ -25,6 +25,12 @@ Has it been established how long the archived data need to be kept? For each of 
   * If you have any ideas, please go to [issues].
   * You can provide any extra resources in the `/resources` directory via [pull request].
 
+## Please contribute!
+
+  * [Want to propose a new resource?](https://github.com/DSQResources/DSQ-kdp/issues/new)
+  * [Want to report an issue / give a feedback?](https://github.com/DSQResources/DSQ-kdp/issues/new)
+  * [We also welcome pull requests!](https://github.com/DSQResources/DSQ-kdp/pulls)
+
 ----
 
 *Do not edit this README file by hand, it is automatically generated*
